@@ -3,3 +3,9 @@
 #first time
 git init
 
+
+#daily commands
+git add.
+git commit -m "daily comment"
+git push origin master or main
+
